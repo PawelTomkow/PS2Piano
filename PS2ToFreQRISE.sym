@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<symbol version="7" name="PS2ToFreQRISE">
+    <symboltype>BLOCK</symboltype>
+    <timestamp>2019-5-30T9:34:35</timestamp>
+    <pin polarity="Input" x="0" y="-160" name="CLK" />
+    <pin polarity="Input" x="0" y="-96" name="RESET" />
+    <pin polarity="Input" x="0" y="-32" name="DO_IN(7:0)" />
+    <pin polarity="Output" x="496" y="-224" name="ENABLE_KEYBOARD" />
+    <pin polarity="Output" x="496" y="-32" name="FREQ_OUT(3:0)" />
+    <pin polarity="Input" x="0" y="32" name="KB_READY" />
+    <pin polarity="Input" x="0" y="96" name="E0" />
+    <pin polarity="Input" x="0" y="160" name="F0" />
+    <graph>
+        <attrtext style="alignment:BCENTER;fontsize:56;fontname:Arial" attrname="SymbolName" x="248" y="-264" type="symbol" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-160" type="pin CLK" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-96" type="pin RESET" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-32" type="pin DO_IN(7:0)" />
+        <attrtext style="alignment:RIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="424" y="-224" type="pin ENABLE_KEYBOARD" />
+        <attrtext style="alignment:RIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="424" y="-32" type="pin FREQ_OUT(3:0)" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="32" type="pin KB_READY" />
+        <line x2="0" y1="32" y2="32" x1="64" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="96" type="pin E0" />
+        <line x2="0" y1="96" y2="96" x1="64" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="160" type="pin F0" />
+        <line x2="0" y1="160" y2="160" x1="64" />
+        <line x2="0" y1="-160" y2="-160" x1="64" />
+        <line x2="0" y1="-96" y2="-96" x1="64" />
+        <rect width="64" x="0" y="-44" height="24" />
+        <line x2="0" y1="-32" y2="-32" x1="64" />
+        <line x2="496" y1="-224" y2="-224" x1="432" />
+        <rect width="64" x="432" y="-44" height="24" />
+        <line x2="496" y1="-32" y2="-32" x1="432" />
+        <rect width="368" x="64" y="-256" height="448" />
+    </graph>
+</symbol>

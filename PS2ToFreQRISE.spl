@@ -1,0 +1,11 @@
+[Inputs]
+KB_READY
+E0
+F0
+CLK
+RESET
+=DO_IN[7:0]=
+[Outputs]
+ENABLE_KEYBOARD
+=FREQ_OUT[3:0]=
+[BiDir]

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/lab/Desktop/organki/dziala nie dziala/Organiki/Organy1/KeyboardAndGenerator_isim_beh.exe" -prj "C:/Users/lab/Desktop/organki/dziala nie dziala/Organiki/Organy1/KeyboardAndGenerator_beh.prj" "work.KeyboardAndGenerator" 
